@@ -214,7 +214,7 @@ body{
 
 
 ## OUTPUT:
-![](<Screenshot 2026-03-15 130906.png>)
+![](<the quiet language of the heart.jpg>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
